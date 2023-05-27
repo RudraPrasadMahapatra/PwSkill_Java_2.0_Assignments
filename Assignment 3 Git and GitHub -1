@@ -1,0 +1,29 @@
+1. What is Git ?
+    Git is a distributed version control system used for tracking changes in source code during software development.
+    It allows multiple developers to collaborate on a project, manage different versions, and merge changes seamlessly.
+2. What do you understand by the term ‘Version Control System’ ?
+    A version control system is a software tool that helps track and manage changes to files over time. It allows multiple users to collaborate on a 
+    project by keeping track of different versions of files, facilitating easy rollback to previous versions, and merging changes made by different 
+    contributors.
+    Eg: Git
+3. What is GitHub ?
+    GitHub is a website and hosting service that assists developers in storing and managing code, as well as tracking and controlling changes to the 
+    project.
+    It provide features such as code repositories, issue tracking, continuous integration, and collaboration tools merging changes made by different contributors.
+4. Mention some popular Git hosting services .
+    GitHub, GitLab, Bitbucket
+5. Different types of version control system ?
+    There are 3 main types of version control systems:
+    a. Centralized version control system
+    b. Distributed version control system
+    c. Hybrid version control system
+ 6. What is the benefit of using GIT ?
+    Git simplifies collaboration by allowing multiple people to work on a project simultaneously while keeping track of changes.
+    It provides a version history that helps return to previous versions,ensuring code safety.
+    With branching and merging, developers can experiment with new features without disrupting the main codebase.
+7. What is Git repository ?
+    A Git repository is a storage location that holds the entire history of a project, including all files, directories, and their respective versions. It 
+    serves as a centralized hub where developers can collaborate, track changes, and manage the codebase. The repository contains branches, 
+    commits, and other data that facilitate version control and team coordination.
+ 8. How can you initialize a repository in Git ?
+    We can initialize a repository in Git using the command `git init` to  initialize a new Git repository in that directory .
