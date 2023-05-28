@@ -17,7 +17,9 @@ Below is a brief overview of the assignments included in this repository:
    - Provides an overview of version control using Git and how to collaborate on projects using GitHub.
    - File: [Assignment_3_Git and GitHub -1.txt](https://github.com/RudraPrasadMahapatra/PwSkill_Java_2.0_Assignments/blob/main/Assignment_3_Git%20and%20GitHub%20-1.txt)
 
-
+4. **Assignment 4**:  Git and GitHub 2
+   - Provides an overview of version control using Git and how to collaborate on projects using GitHub.
+   - File: [Assignment_4_Git and GitHub-2.txt](https://github.com/RudraPrasadMahapatra/PwSkill_Java_2.0_Assignments/blob/main/Assignment_4_Git%20and%20GitHub-2.txt)
 Feel free to explore the assignments and their corresponding Java files. Each assignment is accompanied by a description and instructions within the respective Java file.
 
 ## Getting Started
