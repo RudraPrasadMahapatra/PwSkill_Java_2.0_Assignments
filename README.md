@@ -13,7 +13,7 @@ Below is a brief overview of the assignments included in this repository:
    - Focuses on control flow statements such as if-else, switch-case, and looping constructs like for, while, and do-while.
    - File: [Assignment_2_Operators&Loops.java](https://github.com/RudraPrasadMahapatra/PwSkill_Java_2.0_Assignments/blob/main/Assignment_2_Operators%26Loops.java)
 
-3. **Assignment 3**: Introduction to Git and GitHub
+3. **Assignment 3**: Git and GitHub 1
    - Provides an overview of version control using Git and how to collaborate on projects using GitHub.
    - File: [Assignment_3_Git and GitHub -1.txt](https://github.com/RudraPrasadMahapatra/PwSkill_Java_2.0_Assignments/blob/main/Assignment_3_Git%20and%20GitHub%20-1.txt)
 
