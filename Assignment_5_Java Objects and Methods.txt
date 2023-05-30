@@ -1,0 +1,44 @@
+#Java Objects and Methods
+
+1. How to create an Object in java ?
+  a. Using the new keyword we can create an object in java .
+  Eg: Employee emp = new Employee();
+2. What is the use of a new keyword in java ?
+  a. new keyword is used to create an Object in the heap area.
+3. What are the different types of variables ?
+   a. There are 2 Division for the types of Variables
+      Division-1
+        Based on the type of value represented by a variable, all variables are 
+        classified into 2 types….
+        I. Primitive variables
+        II. Reference Variables
+        Primitive variables : It can be used to represent primitive values.
+        eg:: int x= 10
+        Reference variables : It can be used to refer objects.
+        eg:: Employee emp = new Employee();
+      Division-2
+        Based on behaviour and position of declaration of variables we have 3 types
+        I. Instance variables
+        II. Local variables
+        III. Static variables
+4. What is the difference between Instance variable and Local variable ?
+  a. The main difference between instance variables and local variables in Java is their scope and lifetime. Instance variables are declared within a class but 
+  outside of any methodand they have a longer lifetime, as they are tied to the instance of the class. Local variables are declared within a method and they have
+  a shorter lifetime, as they are created when the block is entered and destroyed when the block is exited.
+5. In which area memory is allocated for Instance variable and Local variable ?
+  a. Memory is allocated for instance variables in the heap memory. 
+  On the other hand, memory for local variables is allocated on the stack memory. 
+6. What is method overloading ?
+  a. It is a future that allows a class to have multiple methods with same but different parameters.It helps us to work with multiple methods but different types of parameters.
+  Eg:
+    public class Calc{
+     public int add(int a, int b) {
+     return a + b;
+     }
+     public double add(double a, double b) {
+     return a + b;
+     }
+     public int add(int a, int b, int c) {
+     return a + b + c;
+     }
+    }
