@@ -20,6 +20,13 @@ Below is a brief overview of the assignments included in this repository:
 4. **Assignment 4**:  Git and GitHub 2
    - Provides an overview of version control using Git and how to collaborate on projects using GitHub.
    - File: [Assignment_4_Git and GitHub-2.txt](https://github.com/RudraPrasadMahapatra/PwSkill_Java_2.0_Assignments/blob/main/Assignment_4_Git%20and%20GitHub-2.txt)
+
+4. **Assignment 5**:  Java Objects and Methods
+   - Provides an overview of topics like oops introduction , classes and objects , types of variable , method with memory maps and method overloading .
+   - File: [Assignment_5_Java Objects and Methods.txt](https://github.com/RudraPrasadMahapatra/PwSkill_Java_2.0_Assignments/blob/main/Assignment_5_Java%20Objects%20and%20Methods.txt)
+
+
+
 Feel free to explore the assignments and their corresponding Java files. Each assignment is accompanied by a description and instructions within the respective Java file.
 
 ## Getting Started
