@@ -1,0 +1,42 @@
+Assignment_6_Array In Java
+
+Name-Rudra Prasad Mahapatra 
+Batch-Binary 2.0 (English)
+Date:-31-05-2023
+
+1.What is the default value at Array for different data types?
+  The default values for different data types in an array are :
+  •	numeric types (byte, short, int, long, float, double): 0
+  •	boolean type: false
+  •	char type: '\u0000' (null character)
+  •	object references: null
+
+2.Can you pass the negative number in Array size ?
+  No, we cannot pass a negative number as the size of an array in Java. The size of an array must be a non-negative integer. If we try to create an array with a negative size, it will result in a negativeArraySizeException error.
+
+3.Where does Array stored in JVM memory ?
+	Arrays in Java are stored in the heap memory.
+
+4.What are the disadvantages of Array ?
+  Arrays have a fixed size that is determined at the time of creation. Once the size is set, it cannot be changed dynamically.
+  Resizing an array involves creating a new array and copying the elements, which can be time-consuming for large arrays.
+  Arrays have a linear search time complexity, which means searching and inserting elements can be inefficient for large arrays.
+
+5.What is an Anonymous Array in Java? Give an example ?
+  An anonymous array in Java is an array that is created without assigning it to a variable. It have no name .
+  Eg:
+   int sum = calc(new int[]{1, 2, 3, 4, 5});
+
+6.What are the different ways to traverse an Array in Java ?
+    Using a for loop: We can use a for loop to iterate over each element of the array.
+    int[] numbers = {1, 2, 3, 4, 5};
+    for (int i = 0; i < numbers.length; i++) {
+        System.out.println(numbers[i]);
+    }
+    Using an enhanced for loop : This loop simplifies array traversal by automatically iterating over each element without needing an explicit index.
+      int[] nums = {1, 2, 3, 4, 5};
+    for (int a : nums ) {
+        System.out.println(numbers[i]);
+    }
+7.What is the difference between length and length() method ? Give an example ?
+    The difference between Java’s length and length() method is that the Java length variable describes the size of an array, while java length() method       tells us how many characters a text of a String contains.
