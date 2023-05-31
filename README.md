@@ -25,6 +25,9 @@ Below is a brief overview of the assignments included in this repository:
    - Provides an overview of topics like oops introduction , classes and objects , types of variable , method with memory maps and method overloading .
    - File: [Assignment_5_Java Objects and Methods.txt](https://github.com/RudraPrasadMahapatra/PwSkill_Java_2.0_Assignments/blob/main/Assignment_5_Java%20Objects%20and%20Methods.txt)
 
+5. **Assignment 6**:  Array in Java
+   - Provides an overview of topics like what an array? ,Creating an array and different ways to create an array , 2D regular array and 2D jagged array , Enhanced fr loop , length vs length() , ArrayIndexOutOfBoundsException , Disadvantages of array in java .
+   - File: [Assignment_6_Array in Java.txt](https://github.com/RudraPrasadMahapatra/PwSkill_Java_2.0_Assignments/blob/main/Assignment_6_Array%20in%20Java.txt)
 
 
 Feel free to explore the assignments and their corresponding Java files. Each assignment is accompanied by a description and instructions within the respective Java file.
