@@ -21,13 +21,16 @@ Below is a brief overview of the assignments included in this repository:
    - Provides an overview of version control using Git and how to collaborate on projects using GitHub.
    - File: [Assignment_4_Git and GitHub-2.txt](https://github.com/RudraPrasadMahapatra/PwSkill_Java_2.0_Assignments/blob/main/Assignment_4_Git%20and%20GitHub-2.txt)
 
-4. **Assignment 5**:  Java Objects and Methods
+5. **Assignment 5**:  Java Objects and Methods
    - Provides an overview of topics like oops introduction , classes and objects , types of variable , method with memory maps and method overloading .
    - File: [Assignment_5_Java Objects and Methods.txt](https://github.com/RudraPrasadMahapatra/PwSkill_Java_2.0_Assignments/blob/main/Assignment_5_Java%20Objects%20and%20Methods.txt)
 
-5. **Assignment 6**:  Array in Java
+6. **Assignment 6**:  Array in Java
    - Provides an overview of topics like what an array? ,Creating an array and different ways to create an array , 2D regular array and 2D jagged array , Enhanced fr loop , length vs length() , ArrayIndexOutOfBoundsException , Disadvantages of array in java .
    - File: [Assignment_6_Array in Java.txt](https://github.com/RudraPrasadMahapatra/PwSkill_Java_2.0_Assignments/blob/main/Assignment_6_Array%20in%20Java.txt)
+
+7. **Assignment 7**:  Practical Assignment Arrays & Objects
+   - File: [Assignment_7_Practical_Objects&Arrays.java](https://github.com/RudraPrasadMahapatra/PwSkill_Java_2.0_Assignments/blob/main/Assignment_7_Practical_Objects%26Arrays.java))
 
 
 Feel free to explore the assignments and their corresponding Java files. Each assignment is accompanied by a description and instructions within the respective Java file.
