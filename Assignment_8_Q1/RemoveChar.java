@@ -1,3 +1,5 @@
+// 4.Write a java program to remove a particular character from a String.
+
 public class RemoveChar {
     public static void main(String[] args) {
     String s1 = "Rudra Prasad";
