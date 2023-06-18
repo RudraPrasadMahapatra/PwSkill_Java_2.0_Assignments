@@ -1,7 +1,35 @@
 1. Why do we need static keyword in Java Explain with an example ?
+  static keyword is mainly used for memory management .the static keyword is used for a constant variable or a method that is the same for every instance of the class .it can be applied to variable , block , methood and class .
+  ex :
+      public class Rudra {
+        private static int age; // it is static variable
+
+        public static void incrementAge() { // it is static method
+            age++;
+        }
+
+        public static void main(String[] args) {
+            Rudra.incrementAge();
+            System.out.println(Rudra.age);
+        }
+    }
+
+  
 2. What is class loading and how does the java program actually executes ?
+  class loading is the process of loading class files into JVM at run time .
+  The class loading process in java is divided into three phases : loading , linking , and initialization.
 3. Can we make a local variable as static ?
+  No, we cannot make a local variable as static . The static keyword is used to define class level variables and methods
 4. Why is the static method also called a class method ?
+  A static method is also called a class method because it belongs to the class itself, rather than a specific instance of the class. It can be invoked directly using the class name, without creating an instance of the class. 
 6. What is the use of static blocks in java ?
+  Static blocks in Java are used to initialize the static variables of a class. They are executed only once when the class is loaded into memory, before the class is initialized. Static blocks are typically used to perform one time initialization of static variables.
 7. Difference between static and instance variables ?
+  The main difference between static and instance variables are :
+   Static variables: These variables are called class variable .
+                     These variables will get memory in method area.
+   instance variables: These variables are also known as non static variable .
+                      These variables will get memory in heap area.
 8. Difference between static and non static members ?
+    Static members are belongs to the class itself, are shared among all instances, and can be accessed using the class name. Non-static members belong to individual instances of the class, have separate copies for each instance, and are accessed through instances of the class.
+
