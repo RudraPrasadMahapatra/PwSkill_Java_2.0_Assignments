@@ -1,0 +1,7 @@
+1. Why do we need static keyword in Java Explain with an example ?
+2. What is class loading and how does the java program actually executes ?
+3. Can we make a local variable as static ?
+4. Why is the static method also called a class method ?
+6. What is the use of static blocks in java ?
+7. Difference between static and instance variables ?
+8. Difference between static and non static members ?
