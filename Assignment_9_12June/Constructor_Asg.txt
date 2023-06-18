@@ -1,0 +1,8 @@
+1. What is a Constructor ?
+2. What is Constructor Chaining ?
+3. Can we call a subclass constructor from a superclass constructor ?
+4. What happened if you keep a return type for a constructor ?
+5. What is no-arg constructor ?
+6. How is a No-argument constructor different from the default Constructor ?
+7. When do we need Constructor Overloading ?
+8. What is Default constructor Explain with an example ?
