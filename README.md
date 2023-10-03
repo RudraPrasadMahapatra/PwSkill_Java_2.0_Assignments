@@ -30,7 +30,16 @@ Below is a brief overview of the assignments included in this repository:
    - File: [Assignment_6_Array in Java.txt](https://github.com/RudraPrasadMahapatra/PwSkill_Java_2.0_Assignments/blob/main/Assignment_6_Array%20in%20Java.txt)
 
 7. **Assignment 7**:  Practical Assignment Arrays & Objects
-   - File: [Assignment_7_Practical_Objects&Arrays.java](https://github.com/RudraPrasadMahapatra/PwSkill_Java_2.0_Assignments/blob/main/Assignment_7_Practical_Objects%26Arrays.java))
+   - File: [Assignment_7_Practical_Objects&Arrays.java](https://github.com/RudraPrasadMahapatra/PwSkill_Java_2.0_Assignments/blob/main/Assignment_7_Practical_Objects%26Arrays.java)
+
+8. **Assignment 8**:  String in java
+   - File: [Assignment_8_String](https://github.com/RudraPrasadMahapatra/PwSkill_Java_2.0_Assignments/tree/main/Assignment_8_String)
+  
+9. **Assignment 9**: Encapsulation,static keyword & Constructor in java
+   - File: [Assignment_9_12June](https://github.com/RudraPrasadMahapatra/PwSkill_Java_2.0_Assignments/tree/main/Assignment_9_12June)
+  
+10. **Assignment 10**: OOPS 2
+   - File: [Assignment_10_OOPs_2.md](https://github.com/RudraPrasadMahapatra/PwSkill_Java_2.0_Assignments/blob/main/Assignment_10_OOPs_2.md)
 
 
 Feel free to explore the assignments and their corresponding Java files. Each assignment is accompanied by a description and instructions within the respective Java file.
