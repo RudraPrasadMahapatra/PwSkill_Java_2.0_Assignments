@@ -13,13 +13,10 @@
    ```
  Example :-
   try {
-       // Code that may throw an exception
-       int result = 10 / 0; // This will throw an ArithmeticException
+       int result = 10 / 0; //risky code
    } catch (ArithmeticException e) {
-       // Handle the exception
        System.out.println("An arithmetic exception occurred: " + e.getMessage());
    } finally {
-       // This block is optional, but it will always execute
        System.out.println("Finally block executed.");
    }
    ```
