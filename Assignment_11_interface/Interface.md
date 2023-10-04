@@ -1,0 +1,7 @@
+### 1. What is an interface in java ?
+
+### 2. Which modifiers are allowed for methods in an interface? explain with an example
+
+### 3. What is the use of interface in Java ? Or, why do we use an interface in java ?
+
+### 4. What is the difference between abstract class and interface in Java ?
